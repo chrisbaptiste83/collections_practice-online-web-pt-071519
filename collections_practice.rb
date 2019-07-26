@@ -30,8 +30,6 @@ def swap_elements(array)
   array
 end
 
-def swap_elements(array)
-end 
 
 def reverse_array(array)
   return_array=[]
