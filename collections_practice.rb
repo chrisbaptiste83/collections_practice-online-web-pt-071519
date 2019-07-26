@@ -25,6 +25,8 @@ def kesha_maker(array)
   new_array
 end
 
+def swap_elements
+
 
 def add_s(array)
    return_array = []
