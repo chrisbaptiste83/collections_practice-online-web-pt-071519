@@ -33,3 +33,4 @@ def add_s(array)
         end
         return_array << word 
   end
+end 
