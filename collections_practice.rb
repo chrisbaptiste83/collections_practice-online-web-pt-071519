@@ -32,8 +32,7 @@ def reverse_array(array)
   return_array=[]
   return_array<< array.reverse 
 end 
-return_array
-end 
+ 
 
 
 def add_s(array)
