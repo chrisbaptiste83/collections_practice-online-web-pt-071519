@@ -25,7 +25,15 @@ def kesha_maker(array)
   new_array
 end
 
-def swap_elements
+def swap_elements(array)
+end 
+
+def reverse_array(array)
+  return_array=[]
+  return_array<< array.reverse 
+end 
+return_array
+end 
 
 
 def add_s(array)
