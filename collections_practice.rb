@@ -43,7 +43,16 @@ end
   sum
 end 
   
-  
+  def find_a(array)
+  array.find_all do |word|
+    word[0] == "a"
+  end
+
+  # using select method
+    # array.select do |word|
+    #   word[0] == "a"
+    # end
+end
 
 def add_s(array)
   array.collect do |word|
